@@ -1,0 +1,23 @@
+/* styles.css */
+:root {
+    --plum-light: #d8bfd8;
+    --plum-dark: #8a2be2;
+    --plum-medium: #dda0dd;
+  }
+  
+  .bg-plum-light {
+    background-color: var(--plum-light) !important;
+  }
+  
+  .bg-plum-dark {
+    background-color: var(--plum-dark) !important;
+  }
+  
+  .bg-plum-medium {
+    background-color: var(--plum-medium) !important;
+  }
+  
+  .text-plum-dark {
+    color: var(--plum-dark) !important;
+  }
+  
